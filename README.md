@@ -1,4 +1,4 @@
-# Map-Reduce Assignment
+# MapReduce Assignment
 
 A minimal MapReduce framework in Python for the CENG435 Cloud Computing course at METU.  
 Implements the classic **map → shuffle → reduce** flow with a simple master–worker design.
